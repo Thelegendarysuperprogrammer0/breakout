@@ -1,0 +1,19 @@
+{
+  "name": "breakoutgame",
+  "version": "0.0.1",
+  "description": "A game where you have to break out.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William van der Meijden",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "require-dir": "^0.3.2",
+    "vuetify": "^0.17.2"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  }
+}
