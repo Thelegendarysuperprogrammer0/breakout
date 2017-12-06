@@ -39,4 +39,4 @@ Extra
 
 ----------
 
-Help: [JS](https://www.w3schools.com/js/default.asp), [Canvas](https://www.w3schools.com/html/html5_canvas.asp), [Breakout](https://codeincomplete.com/posts/collision-detection-in-breakout/)
+Help: [JS](https://www.w3schools.com/js/default.asp), [Canvas](https://www.w3schools.com/html/html5_canvas.asp), [Breakout](https://codeincomplete.com/posts/javascript-breakout/)
